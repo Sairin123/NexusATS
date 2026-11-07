@@ -19,3 +19,4 @@ plotly>=5.17.0
 
 # Testing & Utilities
 pytest>=7.0.0
+certifi>=2023.7.22

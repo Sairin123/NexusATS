@@ -12,6 +12,14 @@ from sklearn.metrics.pairwise import cosine_similarity
 os.environ.setdefault("TOKENIZERS_PARALLELISM", "false")
 os.environ.setdefault("HF_HUB_DISABLE_SYMLINKS_WARNING", "1")
 
+# Ensure valid SSL certificates for Hugging Face Hub downloads on cloud VMs
+try:
+    import certifi
+    os.environ.setdefault("SSL_CERT_FILE", certifi.where())
+    os.environ.setdefault("REQUESTS_CA_BUNDLE", certifi.where())
+except Exception:
+    pass
+
 logger = logging.getLogger(__name__)
 
 

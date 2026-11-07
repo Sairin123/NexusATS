@@ -500,11 +500,14 @@ with tab_ats:
         if ats_resume_text.strip() and ats_job_text.strip():
             if calc_clicked or st.session_state.get("last_pair_sig") != current_pair_sig:
                 with st.spinner("Scoring with SBERT Neural Model, TF-IDF Cosine Similarity & Parseability Engine..."):
-                    updated_res = pipeline.screen_single(ats_resume_text, ats_job_text, job_title=ats_job_title)
-                    st.session_state["active_eval_result"] = updated_res
-                    st.session_state["active_resume_text"] = ats_resume_text
-                    st.session_state["active_job_text"] = ats_job_text
-                    st.session_state["last_pair_sig"] = current_pair_sig
+                    try:
+                        updated_res = pipeline.screen_single(ats_resume_text, ats_job_text, job_title=ats_job_title)
+                        st.session_state["active_eval_result"] = updated_res
+                        st.session_state["active_resume_text"] = ats_resume_text
+                        st.session_state["active_job_text"] = ats_job_text
+                        st.session_state["last_pair_sig"] = current_pair_sig
+                    except Exception as scoring_err:
+                        st.warning(f"Note on neural scoring: {scoring_err}. Defaulting to lexical analysis.")
         else:
             st.warning("Please provide or select both a Candidate Resume and a Job Requisition.")
 
