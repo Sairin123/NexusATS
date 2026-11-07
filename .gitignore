@@ -49,3 +49,4 @@ htmlcov/
 # Temporary uploads / logs
 /tmp/
 *.log
+

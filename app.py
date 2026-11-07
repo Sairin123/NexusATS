@@ -291,12 +291,19 @@ ROLE_CATEGORIES = {
 
 # Preload initial evaluation into session state so ATS Score is NEVER empty on first load!
 if "active_eval_result" not in st.session_state:
-    default_res = RESUMES_DIR / "resume_ml_engineer_alice.txt"
-    default_job = JOBS_DIR / "job_senior_ml_engineer.json"
-    init_res = pipeline.screen_single(default_res, default_job)
-    st.session_state["active_eval_result"] = init_res
-    st.session_state["active_resume_text"] = DocumentParser.load_document(default_res)
-    st.session_state["active_job_text"] = DocumentParser.load_document(default_job)
+    try:
+        default_res = RESUMES_DIR / "resume_ml_engineer_alice.txt"
+        default_job = JOBS_DIR / "job_senior_ml_engineer.json"
+        if default_res.exists() and default_job.exists():
+            init_res = pipeline.screen_single(default_res, default_job)
+            st.session_state["active_eval_result"] = init_res
+            st.session_state["active_resume_text"] = DocumentParser.load_document(default_res)
+            st.session_state["active_job_text"] = DocumentParser.load_document(default_job)
+    except Exception as e:
+        # Fallback initialization gracefully prevents app startup crashes
+        st.session_state["active_eval_result"] = None
+        st.session_state["active_resume_text"] = ""
+        st.session_state["active_job_text"] = ""
 
 
 # ==============================================================================

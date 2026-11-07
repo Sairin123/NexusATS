@@ -36,3 +36,4 @@ HEALTHCHECK CMD curl --fail http://localhost:${PORT}/_stcore/health || exit 1
 
 # Launch Streamlit with environment variable port binding (works on Render, Railway, Cloud Run, HF)
 CMD streamlit run app.py --server.port=${PORT} --server.address=0.0.0.0 --server.headless=true
+
