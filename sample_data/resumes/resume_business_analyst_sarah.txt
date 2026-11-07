@@ -1,0 +1,35 @@
+Sarah Jenkins
+Senior Business Analyst
+sarah.jenkins@email.com | +1 (555) 789-0123 | Chicago, IL
+linkedin.com/in/sarahjenkins-ba
+
+SUMMARY
+Results-oriented Senior Business Analyst with 5+ years of experience bridging business strategy and technical execution. Proven track record in requirements gathering, process mapping (BPMN), stakeholder alignment, and data-driven insights using SQL, Excel, and Power BI across finance and healthcare sectors.
+
+TECHNICAL & BUSINESS SKILLS
+- Business Analysis: Requirements Gathering, Functional Specifications, User Stories, Acceptance Criteria, Gap Analysis, Feasibility Studies, SWOT Analysis
+- Tools & Methodologies: Agile, Scrum, JIRA, Confluence, Microsoft Visio, BPMN, Trello, Miro
+- Data & Analytics: SQL, Power BI, Tableau, Advanced Excel (VLOOKUP, Pivot Tables, Power Query), Data Modeling
+- Leadership & Soft Skills: Stakeholder Management, Workshop Facilitation, Cross-Functional Team Leadership, Presentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior Business Analyst | Meridian Health Tech | 2021 - Present
+- Facilitated over 40 cross-functional requirements gathering workshops with C-suite executives, clinical directors, and software developers.
+- Authored 120+ detailed user stories, functional requirement documents (FRDs), and process maps in JIRA, accelerating development cycle time by 22%.
+- Designed and automated operational KPI executive dashboards in Power BI and SQL, tracking patient onboarding metrics and SLA compliance.
+- Led Agile Scrum ceremonies including backlog refinement, sprint planning, and sprint reviews.
+
+Business Analyst | Apex Financial Consulting | 2018 - 2021
+- Conducted current-state vs. future-state process mapping using Visio and BPMN, identifying 15 workflow bottlenecks and saving \$320K in annual operational overhead.
+- Analyzed large multi-table relational financial databases using SQL queries and advanced Excel to audit loan processing throughput.
+- Created user training documentation and conducted change management sessions for 200+ internal staff members.
+
+EDUCATION
+Bachelor of Science in Business Administration & Information Systems
+University of Wisconsin - Madison | 2014 - 2018
+
+CERTIFICATIONS
+- Certified Business Analysis Professional (CBAP)
+- Professional Scrum Master I (PSM I)
+

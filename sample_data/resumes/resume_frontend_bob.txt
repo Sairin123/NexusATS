@@ -1,0 +1,32 @@
+Bob Miller
+Senior Frontend Engineer
+bob.miller@email.com | +1 (555) 345-6789 | Austin, TX
+linkedin.com/in/bobmiller-dev | github.com/bobmiller-frontend
+
+SUMMARY
+Creative and performance-driven Senior Frontend Developer with 6 years of experience building modern, responsive, and accessible web applications using React, TypeScript, Next.js, and modern CSS frameworks. Expert in state management, frontend architecture, and web performance optimization.
+
+TECHNICAL SKILLS
+- Frontend Frameworks: React, React.js, Next.js, Vue.js, Redux, Context API, HTML5, CSS3, Tailwind CSS, Bootstrap
+- Languages: TypeScript, JavaScript, HTML, CSS, SQL
+- Build & Testing: Webpack, Vite, Jest, React Testing Library, Cypress
+- APIs & Backend: GraphQL, REST API, Node.js, Express
+- Tools & Practices: Git, Agile, Scrum, CI/CD, Figma, UI/UX Design
+
+PROFESSIONAL EXPERIENCE
+
+Senior Frontend Developer | Nova Web Solutions | 2021 - Present
+- Spearheaded migration of legacy single-page application to Next.js 14 and TypeScript, improving Core Web Vitals and Lighthouse performance score from 54 to 96.
+- Built reusable modular component library with Tailwind CSS and Storybook used by 4 product engineering squads.
+- Implemented state management using Redux Toolkit and React Query, minimizing API calls by 35% through aggressive caching.
+- Collaborated closely with UI/UX designers in Figma and backend engineers to integrate GraphQL and REST APIs.
+
+Frontend Developer | PixelCraft Interactive | 2018 - 2021
+- Developed interactive customer-facing web dashboards using React.js and CSS3 animations.
+- Wrote comprehensive unit tests and end-to-end integration tests using Jest and Cypress, elevating test coverage to 88%.
+- Optimized client-side bundle size with code-splitting, tree-shaking, and lazy loading, reducing initial page load time by 1.8 seconds.
+
+EDUCATION
+Bachelor of Science in Software Engineering
+University of Texas at Austin | 2014 - 2018
+

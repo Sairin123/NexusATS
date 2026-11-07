@@ -1,0 +1,36 @@
+{
+  "id": "job_business_analyst",
+  "title": "Senior Business Analyst (Strategy & Operations)",
+  "department": "Business Operations & Strategy",
+  "location": "Chicago, IL / Hybrid",
+  "description": "We are seeking a Business Analyst to bridge the gap between business stakeholders and technical development teams. You will gather requirements, map business processes, and translate strategic goals into actionable technical specifications.",
+  "responsibilities": [
+    "Lead requirements gathering sessions with business leaders, product teams, and engineering.",
+    "Author detailed functional requirement specifications, user stories, and acceptance criteria in JIRA.",
+    "Conduct current-state vs future-state business process mapping (BPMN / Visio).",
+    "Analyze operational workflows and build executive KPI dashboards in Power BI or Tableau."
+  ],
+  "requirements": [
+    "3+ years experience as a Business Analyst or Business Systems Analyst.",
+    "Proficiency in Agile/Scrum methodologies, JIRA, and Confluence.",
+    "Strong skills in advanced Excel (vlookup, pivot tables, data modeling) and SQL.",
+    "Exceptional verbal and written communication and stakeholder management."
+  ],
+  "skills": [
+    "business analysis",
+    "requirements gathering",
+    "user stories",
+    "gap analysis",
+    "stakeholder management",
+    "jira",
+    "confluence",
+    "agile",
+    "scrum",
+    "sql",
+    "excel",
+    "power bi",
+    "tableau",
+    "process mapping"
+  ]
+}
+

@@ -1,0 +1,34 @@
+{
+  "id": "job_backend_developer",
+  "title": "Senior Backend Developer (Distributed Systems)",
+  "department": "Platform & Infrastructure",
+  "location": "San Francisco, CA / Remote",
+  "description": "Looking for an experienced Backend Developer to build scalable, high-throughput microservices, API gateways, and distributed data pipelines handling millions of daily requests.",
+  "responsibilities": [
+    "Design, build, and optimize backend microservices using Python, Go, or Java.",
+    "Architect and maintain relational and NoSQL databases (PostgreSQL, Redis, MongoDB).",
+    "Implement asynchronous task queues and event-driven architectures with Kafka or RabbitMQ.",
+    "Containerize microservices with Docker and deploy to cloud environments."
+  ],
+  "requirements": [
+    "4+ years of backend engineering experience with Python, Go, or Node.js.",
+    "Deep expertise with PostgreSQL database indexing, transactions, and schema design.",
+    "Hands-on experience with caching layers (Redis) and message brokers (Kafka/RabbitMQ).",
+    "Experience building and securing REST and GraphQL APIs."
+  ],
+  "skills": [
+    "python",
+    "golang",
+    "postgresql",
+    "redis",
+    "kafka",
+    "docker",
+    "rest api",
+    "graphql",
+    "microservices",
+    "system design",
+    "linux",
+    "ci/cd"
+  ]
+}
+

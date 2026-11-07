@@ -1,0 +1,34 @@
+{
+  "id": "job_full_stack_developer",
+  "title": "Full Stack Developer (Web & Cloud)",
+  "department": "Engineering",
+  "location": "Austin, TX / Hybrid",
+  "description": "Seeking an agile Full Stack Developer capable of delivering end-to-end features from responsive React frontend user interfaces to robust backend API services and database persistence.",
+  "responsibilities": [
+    "Build responsive web applications using React, TypeScript, and modern styling frameworks.",
+    "Develop backend web APIs using Node.js, FastAPI, or Django.",
+    "Manage database schema migrations and queries in PostgreSQL or MySQL.",
+    "Ensure security, authentication (JWT/OAuth), and automated testing across the stack."
+  ],
+  "requirements": [
+    "3+ years building full stack web applications.",
+    "Strong skills in TypeScript/JavaScript, React, and Python or Node.js.",
+    "Solid relational database experience with PostgreSQL or MySQL.",
+    "Experience with Docker, Git, and cloud services (AWS/GCP)."
+  ],
+  "skills": [
+    "react",
+    "typescript",
+    "javascript",
+    "python",
+    "fastapi",
+    "node.js",
+    "postgresql",
+    "docker",
+    "aws",
+    "git",
+    "tailwind css",
+    "rest api"
+  ]
+}
+

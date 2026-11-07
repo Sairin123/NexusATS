@@ -1,0 +1,33 @@
+{
+  "id": "job_data_scientist",
+  "title": "Data Scientist & Analytics Lead",
+  "department": "Data Science & Insights",
+  "location": "Chicago, IL / Hybrid",
+  "description": "Seeking an experienced Data Scientist to transform raw multi-tenant data into predictive models and actionable strategic insights. You will partner with business executives and build statistical models.",
+  "responsibilities": [
+    "Extract and clean large-scale datasets from Snowflake data warehouse using advanced SQL.",
+    "Develop statistical and machine learning predictive models using Python, Pandas, and Scikit-Learn.",
+    "Design and analyze A/B tests to validate business hypotheses and marketing strategy.",
+    "Create executive dashboards in Tableau or Power BI to communicate metrics."
+  ],
+  "requirements": [
+    "Proficiency in Python, SQL, Pandas, NumPy, and Scikit-Learn.",
+    "Experience with cloud data warehouses like Snowflake or BigQuery.",
+    "Demonstrated ability to convey complex quantitative findings to non-technical stakeholders.",
+    "Strong background in statistical analysis and A/B test experimentation."
+  ],
+  "skills": [
+    "python",
+    "sql",
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "machine learning",
+    "snowflake",
+    "tableau",
+    "statistics",
+    "etl",
+    "data warehousing"
+  ]
+}
+

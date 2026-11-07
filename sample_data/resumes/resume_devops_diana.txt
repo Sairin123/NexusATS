@@ -1,0 +1,32 @@
+Diana Prince
+Staff DevOps & Cloud Infrastructure Engineer
+diana.prince@email.com | +1 (555) 567-8901 | Seattle, WA
+linkedin.com/in/dianaprince-cloud | github.com/dianaprince-infra
+
+SUMMARY
+Cloud and DevOps Engineer with 6+ years of expertise designing resilient, automated multi-region cloud infrastructures on AWS and GCP. Specialized in Infrastructure as Code (Terraform), Kubernetes orchestration, zero-downtime CI/CD deployment pipelines, observability, and container security.
+
+TECHNICAL SKILLS
+- Cloud Platforms: AWS (EKS, ECS, VPC, IAM, S3, RDS, CloudFormation), GCP (GKE, Cloud Run)
+- Containers & Orchestration: Docker, Kubernetes, Helm, ArgoCD
+- Infrastructure as Code: Terraform, Ansible
+- CI/CD & Automation: GitHub Actions, GitLab CI, Jenkins, Bash, Python
+- Monitoring & Observability: Prometheus, Grafana, Datadog, ELK Stack
+- Security & Networking: Linux, TCP/IP, DNS, SSL/TLS, Vault, IAM
+
+PROFESSIONAL EXPERIENCE
+
+Lead Cloud Infrastructure Engineer | CloudScale Systems | 2021 - Present
+- Architected enterprise Kubernetes clusters on AWS EKS serving 50M+ requests daily with 99.99% service availability.
+- Modularized global multi-account infrastructure using Terraform, enabling standardized provisioning in under 15 minutes.
+- Built automated GitHub Actions CI/CD workflows with automated security scanning (Trivy, SonarQube) and Canary deployments.
+- Implemented full-stack observability with Prometheus and Grafana dashboards, reducing Mean Time to Detection (MTTD) by 60%.
+
+DevOps Engineer | StratoCorp | 2018 - 2021
+- Migrated 40+ on-premise monolithic microservices to Docker containers and AWS ECS.
+- Automated daily backup, disaster recovery drills, and compliance audits using Python scripts and AWS Lambda.
+
+EDUCATION
+Bachelor of Science in Computer Engineering
+University of Washington | 2014 - 2018
+

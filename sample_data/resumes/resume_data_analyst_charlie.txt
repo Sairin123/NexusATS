@@ -1,0 +1,29 @@
+Charlie Davis
+Senior Data Analyst & BI Specialist
+charlie.davis@email.com | +1 (555) 456-7890 | Chicago, IL
+linkedin.com/in/charliedavis-data | github.com/charliedavis-analytics
+
+SUMMARY
+Detail-oriented Data Analyst with 4+ years of experience transforming complex datasets into actionable business intelligence insights. Proficient in advanced SQL, Python for data manipulation, ETL pipeline automation, Snowflake, and enterprise dashboards with Tableau and Power BI.
+
+TECHNICAL SKILLS
+- Analytics & Modeling: SQL, Python, Pandas, NumPy, Statistics, Scikit-Learn, A/B Testing, Exploratory Data Analysis
+- BI & Visualization: Tableau, Power BI, Metabase, Matplotlib, Seaborn
+- Data Engineering & Warehousing: Snowflake, BigQuery, PostgreSQL, dbt, ETL, Data Warehousing
+- Collaboration & Tools: Git, Excel, Agile, JIRA, Stakeholder Presentation
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Analyst | Horizon Retail Group | 2021 - Present
+- Designed and maintained 25+ automated executive Tableau dashboards tracking \$150M+ annual revenue, conversion funnels, and customer retention.
+- Automated core ETL data transformations using Python, Pandas, and dbt in Snowflake, reducing manual reporting hours by 20 hours per week.
+- Conducted hypothesis testing, cohort retention analysis, and multivariate A/B testing on marketing campaigns, driving a 14% lift in repeat purchases.
+
+Data Analyst | Insight Capital | 2019 - 2021
+- Wrote complex SQL queries, window functions, and CTEs to extract financial performance metrics across multi-million row relational databases.
+- Partnered with product and finance leaders to define key performance indicators (KPIs) and predictive forecast models.
+
+EDUCATION
+Bachelor of Science in Statistics and Data Analytics
+University of Illinois Urbana-Champaign | 2015 - 2019
+

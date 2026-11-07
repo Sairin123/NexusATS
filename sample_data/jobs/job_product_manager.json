@@ -1,0 +1,34 @@
+{
+  "id": "job_product_manager",
+  "title": "Technical Product Manager (Core Platform)",
+  "department": "Product Management",
+  "location": "Seattle, WA / Remote",
+  "description": "We are looking for a Technical Product Manager to drive product strategy, roadmap prioritization, and feature execution across our cross-functional engineering teams.",
+  "responsibilities": [
+    "Define product roadmap, technical requirements, and feature user stories.",
+    "Partner with engineering, UX design, and data science to deliver features on schedule.",
+    "Track product KPIs, customer adoption metrics, and run A/B experimentation.",
+    "Manage stakeholder expectations and communicate product vision to executive leadership."
+  ],
+  "requirements": [
+    "3+ years experience in product management or technical program management.",
+    "Strong technical fluency with APIs, software architecture, and agile methodologies.",
+    "Demonstrated ability to use data analytics (SQL, Tableau) to drive product decisions.",
+    "Outstanding leadership, written communication, and cross-functional coordination."
+  ],
+  "skills": [
+    "product management",
+    "agile",
+    "scrum",
+    "jira",
+    "user stories",
+    "roadmap",
+    "stakeholder management",
+    "sql",
+    "kpi tracking",
+    "system design",
+    "market research",
+    "communication"
+  ]
+}
+

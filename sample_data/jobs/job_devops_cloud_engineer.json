@@ -1,0 +1,33 @@
+{
+  "id": "job_devops_cloud_engineer",
+  "title": "Senior Cloud Infrastructure & DevOps Engineer",
+  "department": "Platform Engineering",
+  "location": "Seattle, WA / Remote",
+  "description": "We are seeking a Senior DevOps Engineer to build and maintain secure, reliable, and scalable cloud platform infrastructure on AWS using modern Infrastructure as Code and container orchestration.",
+  "responsibilities": [
+    "Manage and scale multi-tenant Kubernetes clusters on AWS EKS.",
+    "Provision and standardize cloud infrastructure using Terraform and Ansible.",
+    "Build automated CI/CD deployment pipelines using GitHub Actions.",
+    "Establish end-to-end monitoring, alerting, and observability with Prometheus and Grafana."
+  ],
+  "requirements": [
+    "4+ years experience managing production AWS environments and Linux systems.",
+    "Deep expertise with Docker containerization and Kubernetes orchestration.",
+    "Proficiency with Terraform for Infrastructure as Code (IaC).",
+    "Experience building CI/CD pipelines and monitoring production distributed systems."
+  ],
+  "skills": [
+    "aws",
+    "docker",
+    "kubernetes",
+    "terraform",
+    "ci/cd",
+    "github actions",
+    "prometheus",
+    "grafana",
+    "linux",
+    "helm",
+    "ansible"
+  ]
+}
+

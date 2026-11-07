@@ -1,0 +1,34 @@
+{
+  "id": "job_financial_analyst",
+  "title": "Corporate Financial Analyst (FP&A)",
+  "department": "Finance & Corporate Strategy",
+  "location": "New York, NY / Hybrid",
+  "description": "Seeking a Corporate Financial Analyst to support company-wide financial planning and analysis (FP&A), annual budgeting, strategic forecasting, and executive reporting.",
+  "responsibilities": [
+    "Develop dynamic financial models, discounted cash flow (DCF) analyses, and forecasts.",
+    "Perform monthly P&L variance analysis comparing actual performance against budget.",
+    "Build financial presentations and executive summary decks for leadership.",
+    "Evaluate capital allocation, business unit performance, and strategic ROI opportunities."
+  ],
+  "requirements": [
+    "2+ years experience in corporate finance, investment banking, or FP&A.",
+    "Advanced Microsoft Excel modeling skills (macros, pivot tables, financial formulas).",
+    "Understanding of GAAP accounting standards and financial statement analysis.",
+    "Strong problem solving and business communication skills."
+  ],
+  "skills": [
+    "financial modeling",
+    "budgeting",
+    "forecasting",
+    "p&l",
+    "variance analysis",
+    "gaap",
+    "dcf",
+    "valuation",
+    "excel",
+    "power bi",
+    "data visualization",
+    "strategic planning"
+  ]
+}
+

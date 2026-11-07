@@ -1,0 +1,38 @@
+{
+  "id": "job_ai_engineer",
+  "title": "Generative AI & LLM Engineer",
+  "department": "Applied Artificial Intelligence",
+  "location": "San Francisco, CA / Remote",
+  "description": "Looking for an AI Engineer specializing in Generative AI, Retrieval-Augmented Generation (RAG), and Large Language Model (LLM) fine-tuning to build production-grade agentic and semantic AI applications.",
+  "responsibilities": [
+    "Build and optimize enterprise RAG pipelines using LangChain, LlamaIndex, and Vector Databases (Pinecone/ChromaDB).",
+    "Fine-tune open-source transformer models (LLaMA, Mistral, BERT) for specialized downstream domain tasks.",
+    "Implement prompt engineering, guardrails, and evaluation frameworks for LLM outputs.",
+    "Deploy low-latency AI inference services on cloud infrastructure with Docker and FastAPI."
+  ],
+  "requirements": [
+    "Strong Python coding skills with PyTorch, Hugging Face Transformers, and Sentence Transformers.",
+    "Demonstrated experience building RAG architectures and vector indexing.",
+    "Experience with prompt engineering, function calling, and agent workflows.",
+    "Familiarity with MLOps, vector databases, and containerized deployment."
+  ],
+  "skills": [
+    "python",
+    "pytorch",
+    "transformers",
+    "sentence transformers",
+    "sbert",
+    "llm",
+    "rag",
+    "langchain",
+    "vector databases",
+    "pinecone",
+    "chromadb",
+    "fastapi",
+    "docker",
+    "fine-tuning",
+    "prompt engineering",
+    "generative ai"
+  ]
+}
+

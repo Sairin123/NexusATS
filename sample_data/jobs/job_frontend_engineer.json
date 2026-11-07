@@ -1,0 +1,34 @@
+{
+  "id": "job_frontend_engineer",
+  "title": "Senior Frontend Engineer (React & TypeScript)",
+  "department": "Web Engineering",
+  "location": "Austin, TX / Remote",
+  "description": "Looking for a passionate Senior Frontend Engineer to build high-performance web applications using React, Next.js, and TypeScript. You will own the client architecture and deliver delightful user interfaces.",
+  "responsibilities": [
+    "Architect and maintain scalable React and Next.js web applications with clean TypeScript.",
+    "Develop pixel-perfect, accessible components with Tailwind CSS.",
+    "Implement state management with Redux and client-side caching strategies.",
+    "Optimize web performance, Core Web Vitals, and responsive UI across devices.",
+    "Write automated unit and integration tests with Jest and Cypress."
+  ],
+  "requirements": [
+    "4+ years of professional experience with React, TypeScript, and modern JavaScript.",
+    "Expertise in Next.js, server-side rendering, and responsive CSS frameworks.",
+    "Hands-on experience consuming REST APIs and GraphQL backends.",
+    "Strong understanding of web accessibility, cross-browser compatibility, and testing."
+  ],
+  "skills": [
+    "react",
+    "typescript",
+    "next.js",
+    "javascript",
+    "redux",
+    "tailwind css",
+    "graphql",
+    "rest api",
+    "jest",
+    "html",
+    "css"
+  ]
+}
+

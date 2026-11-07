@@ -1,0 +1,38 @@
+{
+  "id": "job_senior_ml_engineer",
+  "title": "Senior Machine Learning Engineer (NLP & AI)",
+  "department": "Artificial Intelligence & Core ML",
+  "location": "San Francisco, CA (Hybrid / Remote)",
+  "description": "We are seeking a Senior Machine Learning Engineer to drive the design, development, and productionization of state-of-the-art Natural Language Processing (NLP), semantic search, and generative AI models. You will architect deep learning pipelines, optimize transformer models, and collaborate with backend teams to deliver scalable AI features to millions of global users.",
+  "responsibilities": [
+    "Design and train neural networks and transformer models using PyTorch and Hugging Face.",
+    "Implement dense vector embeddings and semantic search algorithms using Sentence Transformers and vector databases.",
+    "Deploy scalable, low-latency machine learning inference microservices on AWS and Kubernetes.",
+    "Establish MLOps best practices including CI/CD pipelines, experiment tracking, and model monitoring with MLflow.",
+    "Collaborate across multidisciplinary teams to translate product requirements into cutting-edge machine learning solutions."
+  ],
+  "requirements": [
+    "Proven experience with Python, PyTorch, and Scikit-Learn for machine learning and deep learning.",
+    "Hands-on expertise in Natural Language Processing (NLP), Sentence Transformers, BERT, and LLM fine-tuning.",
+    "Familiarity with vector databases (such as Pinecone, ChromaDB, or Milvus) and cosine similarity indexing.",
+    "Solid software engineering fundamentals: Docker containerization, REST APIs, and AWS cloud deployment.",
+    "Master's or Bachelor's degree in Computer Science, Data Science, or equivalent practical experience."
+  ],
+  "skills": [
+    "python",
+    "pytorch",
+    "transformers",
+    "sentence transformers",
+    "sbert",
+    "nlp",
+    "deep learning",
+    "scikit-learn",
+    "docker",
+    "kubernetes",
+    "aws",
+    "vector databases",
+    "ci/cd",
+    "fastapi"
+  ]
+}
+

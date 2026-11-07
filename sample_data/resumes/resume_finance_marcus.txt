@@ -1,0 +1,33 @@
+Marcus Vance
+Senior Financial Analyst (FP&A)
+marcus.vance@email.com | +1 (555) 890-1234 | New York, NY
+linkedin.com/in/marcusvance-finance
+
+SUMMARY
+Strategic Senior Financial Analyst with 5 years of experience in Corporate FP&A, financial modeling, budgeting, and long-range forecasting. Expert in building dynamic three-statement financial models, variance analyses, and capital expenditure assessments for \$200M+ enterprise SaaS companies.
+
+CORE COMPETENCIES
+- Financial Analysis: Financial Modeling, Budgeting, Forecasting, P&L Management, Variance Analysis, DCF Valuation, Sensitivity Analysis, Cost Allocation
+- Standards & Regulatory: US GAAP, IFRS, Sarbanes-Oxley (SOX), Revenue Recognition (ASC 606)
+- Systems & Tools: Advanced Microsoft Excel (Macros, VBA, Index/Match), NetSuite, Adaptive Insights, Power BI, SQL, PowerPoint
+
+PROFESSIONAL EXPERIENCE
+
+Senior FP&A Analyst | CloudBridge Technologies | 2021 - Present
+- Built and maintained dynamic 5-year rolling corporate financial forecasts and annual operating budgets across 6 business divisions.
+- Led monthly P&L variance analysis investigating budget vs. actual discrepancies, presenting operational findings to CFO and executive leadership.
+- Partnered with product and engineering leaders to model cloud infrastructure hosting unit economics, achieving \$1.2M in annual savings.
+- Designed automated financial KPI dashboards in Power BI and Excel, reducing monthly reporting cycle by 3 business days.
+
+Financial Analyst | Sterling Capital Partners | 2018 - 2021
+- Developed Discounted Cash Flow (DCF) and leveraged buyout (LBO) valuation models for 12 corporate M&A transactions.
+- Automated quarterly board deck financial reporting packages using advanced Excel formulas and VBA scripts.
+
+EDUCATION
+Bachelor of Science in Finance and Accounting
+New York University (NYU) Stern School of Business | 2014 - 2018
+
+CERTIFICATIONS
+- Passed CFA Level II
+- Certified Corporate Financial Planning & Analysis Professional (FPAC)
+

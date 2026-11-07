@@ -1,0 +1,39 @@
+Alice Chen
+Senior Machine Learning Engineer
+alice.chen@email.com | +1 (555) 234-5678 | San Francisco, CA
+linkedin.com/in/alicechen-ml | github.com/alicechen-ai
+
+SUMMARY
+Accomplished Machine Learning Engineer with 5+ years of experience designing and deploying scalable Natural Language Processing (NLP) models, Large Language Models (LLMs), and retrieval-augmented generation (RAG) architectures in production. Passionate about transformer architectures, sentence embeddings, semantic search, and MLOps.
+
+TECHNICAL SKILLS
+- Machine Learning & AI: PyTorch, TensorFlow, Hugging Face, Transformers, Sentence Transformers, SBERT, BERT, Scikit-Learn, Spacy, NLTK, RAG, LangChain, Vector Databases (Pinecone, ChromaDB), Deep Learning, Fine-tuning
+- Languages: Python, SQL, C++, Bash
+- Cloud & MLOps: AWS (SageMaker, S3, EC2), Docker, Kubernetes, CI/CD, MLflow, Ray, Git
+- Databases: PostgreSQL, Redis, Snowflake
+
+PROFESSIONAL EXPERIENCE
+
+Senior ML Engineer | Cortex AI Labs | 2022 - Present
+- Architected enterprise semantic search and recommendation engine using Sentence Transformers (all-MiniLM-L6-v2) and Pinecone, reducing query latency by 42% and boosting relevance NDCG@10 from 0.68 to 0.89.
+- Fine-tuned transformer models (BERT, RoBERTa, LLaMA) for multi-label text classification and entity extraction, processing 15M+ documents monthly.
+- Deployed real-time inference pipelines with FastAPI and Triton Inference Server on Kubernetes (EKS), handling 1,200 RPS with sub-50ms p99 latency.
+- Built automated continuous integration and deployment (CI/CD) pipelines with MLflow for model registry, experiment tracking, and automated drift detection.
+
+Machine Learning Engineer | Apex Data Systems | 2019 - 2022
+- Developed TF-IDF and deep learning NLP models for automated document categorization and candidate resume ranking algorithms.
+- Built end-to-end data pipelines in Python and Pandas, training Scikit-Learn and PyTorch models for tabular and unstructured text analysis.
+- Designed REST APIs with FastAPI and Docker containerization for seamless model serving on AWS.
+- Mentored junior data scientists in unit testing, code review best practices, and model evaluation metrics.
+
+EDUCATION
+Master of Science in Computer Science (Specialization: Machine Learning)
+Stanford University | 2017 - 2019
+
+Bachelor of Science in Computer Science
+University of California, Berkeley | 2013 - 2017
+
+CERTIFICATIONS & AWARDS
+- AWS Certified Machine Learning - Specialty (2023)
+- PyTorch Deep Learning Professional Certification
+

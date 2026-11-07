@@ -1,0 +1,32 @@
+{
+  "id": "job_software_developer",
+  "title": "Software Developer (Core Engineering)",
+  "department": "Core Product Engineering",
+  "location": "New York, NY / Remote",
+  "description": "We are seeking a versatile Software Developer to design, build, and maintain mission-critical software services. You will write clean, well-tested code, collaborate with product managers, and participate in code reviews.",
+  "responsibilities": [
+    "Write robust, maintainable code using Python, Java, or C++.",
+    "Design and implement RESTful APIs and integrate backend relational databases.",
+    "Write automated unit tests and participate in team agile sprint planning.",
+    "Participate in code reviews and contribute to software architecture improvements."
+  ],
+  "requirements": [
+    "2+ years of professional software development experience.",
+    "Strong proficiency in Python, Java, or C++ and object-oriented design.",
+    "Familiarity with Git, Linux command line, and SQL relational databases.",
+    "Solid understanding of algorithms, data structures, and unit testing."
+  ],
+  "skills": [
+    "python",
+    "java",
+    "sql",
+    "git",
+    "rest api",
+    "unit testing",
+    "system design",
+    "agile",
+    "linux",
+    "code review"
+  ]
+}
+

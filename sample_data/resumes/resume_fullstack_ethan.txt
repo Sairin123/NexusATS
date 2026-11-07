@@ -1,0 +1,31 @@
+Ethan Hunt
+Senior Full Stack Engineer
+ethan.hunt@email.com | +1 (555) 678-9012 | New York, NY
+linkedin.com/in/ethanhunt-fullstack | github.com/ethanhunt-code
+
+SUMMARY
+Full Stack Software Engineer with 5 years of experience delivering robust web platforms from conceptualization to production. Proficient in Python, Django, FastAPI, React, TypeScript, PostgreSQL, and cloud deployments on AWS.
+
+TECHNICAL SKILLS
+- Frontend: React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Redux
+- Backend: Python, Django, FastAPI, Node.js, Express, REST API, GraphQL
+- Databases & Caching: PostgreSQL, Redis, MongoDB, MySQL
+- Cloud & DevOps: AWS, Docker, CI/CD, GitHub Actions, Linux
+- Software Engineering: System Design, Unit Testing, Agile, Code Review
+
+PROFESSIONAL EXPERIENCE
+
+Senior Full Stack Engineer | Apex Financial Tech | 2022 - Present
+- Designed and built a financial transaction monitoring web application using FastAPI, React, and PostgreSQL, handling 2,000 requests per second.
+- Integrated Redis caching layer for session management and rate limiting, slashing database queries by 45%.
+- Implemented responsive user dashboards with React and Tailwind CSS with real-time WebSocket updates.
+
+Software Engineer | Beacon Web Labs | 2019 - 2022
+- Developed RESTful APIs using Python Django and Django REST framework for an e-commerce platform.
+- Managed relational database migrations, schema designs, and indexing in PostgreSQL.
+- Containerized microservices with Docker and configured automated CI/CD deployment pipelines to AWS EC2.
+
+EDUCATION
+Bachelor of Science in Computer Science
+New York University (NYU) | 2015 - 2019
+

@@ -1,0 +1,34 @@
+{
+  "id": "job_data_analyst",
+  "title": "Data Analyst (BI & Quantitative Analytics)",
+  "department": "Data & Analytics",
+  "location": "Boston, MA / Hybrid",
+  "description": "Seeking an analytical Data Analyst to transform complex relational databases into strategic business intelligence, automated KPI dashboards, and statistical cohort models.",
+  "responsibilities": [
+    "Write optimized SQL queries across Snowflake and PostgreSQL data warehouses.",
+    "Build and maintain automated executive dashboards using Tableau and Power BI.",
+    "Perform exploratory data analysis and hypothesis testing with Python and Pandas.",
+    "Collaborate with marketing, sales, and product leaders to measure business performance."
+  ],
+  "requirements": [
+    "2+ years experience in a data analytics or business intelligence role.",
+    "Expertise in SQL, relational databases, and data modeling.",
+    "Strong dashboard development experience with Tableau or Power BI.",
+    "Proficiency with Python, Pandas, and basic statistical techniques."
+  ],
+  "skills": [
+    "sql",
+    "python",
+    "pandas",
+    "numpy",
+    "tableau",
+    "power bi",
+    "snowflake",
+    "postgresql",
+    "statistics",
+    "data visualization",
+    "excel",
+    "etl"
+  ]
+}
+
